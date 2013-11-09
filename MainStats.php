@@ -65,8 +65,9 @@
     <td width='100' align='center'>1</td>
     <td width='100' align='center'>181</td>
     <td width='35' align='center'>181</td></tr>
-        
-            </table>
+        </table>
           </div>
+        <br />
+        <br />
     </body>
 </html>

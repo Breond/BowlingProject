@@ -12,7 +12,7 @@
     <center><image id='wmpenn' src="images/wpulogo.jpg" alt="William Penn Logo" /></center>
         <h1 id='pagename'><strong><center>WILLIAM PENN UNIVERSITY BOWLING STATISTICS</center></strong></h1>
         <center><div ID='center_buttons'>
-            <a href="NEED QUALIFYING WEBSITE"><input type="submit" style="width:175px; height:30px;" value="BOWLING SCHEDULE"/>
+            <a href="http://localhost/BowlingProject/Calendar.php"><input type="submit" style="width:175px; height:30px;" value="BOWLING SCHEDULE"/>
             </a>
             <a href="http://localhost/BowlingProject/roster.php"><input type="submit" style="width:175px; height:30px;" value="TEAM ROSTER"/>
             </a>
