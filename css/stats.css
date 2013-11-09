@@ -1,6 +1,7 @@
 body{
     color: black;
     font: 13px Arial, san-serif; 
+    background-color: gainsboro;
  
 }
 
@@ -35,16 +36,16 @@ body{
 #IndivTable{
     margin-top: 2%;
 }
-#codypic{
-    height: 175px;
-    width: 150px;
-}
 .floater{
+    display: inline-block;
     width: 200px;
-    float: left;
+    
 }
 #rosterpage{
        margin-left: 15%;
        margin-right:15%;
 }
-
+#resize {
+    width: 500px;
+    height: auto;
+    }
