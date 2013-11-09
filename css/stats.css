@@ -1,0 +1,50 @@
+body{
+    color: black;
+    font: 13px Arial, san-serif; 
+ 
+}
+
+#heading{
+    text-align: center;
+    font-size: 18px;
+    color: gold;
+    background-color: #060644;
+    padding: 20pt;
+    margin-bottom: 2%;
+   
+}
+
+#tablehead{
+      font-size: 18px;
+      color: gold;
+      background-color: #060644;
+}
+
+#table{
+    margin-top: 2%;
+}
+ #heading img{
+    margin-left: 2%;
+    float: left;
+    height:110px;
+}
+
+#teampic{
+    margin-top: 5%;
+}
+#IndivTable{
+    margin-top: 2%;
+}
+#codypic{
+    height: 175px;
+    width: 150px;
+}
+.floater{
+    width: 200px;
+    float: left;
+}
+#rosterpage{
+       margin-left: 15%;
+       margin-right:15%;
+}
+
