@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
     <head>
         <title>William Penn Bowling Team Roster</title>
@@ -16,7 +17,9 @@
         <div id='rosterpage'>
         <center><div><img id="resize" src="images/team.jpg" alt="bowling team"/></div></center>
             <center><div id='header2'><h2>2013-2014 Men's Roster</h2></div></center>
-        </div>
+ 
+
+</div>
         <center><div class="floater">
                 <img src="images/markvanwyk.jpg" alt='Mark Van Wyk' title='Mark Van Wyk'/>
                 <p><a href="markvanwyk.html">Mark Van Wyk</a></p>
@@ -117,3 +120,4 @@
     </center>
     </body>
 </html>
+        
