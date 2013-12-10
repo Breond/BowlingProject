@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-
+<?php
+require'./include/dbconnection.php';
+$rows= $db->query("SELCT* FROM rosters WHERE path = $id>0;");
+  foreach($rows as $path){} 
+      ?>  
 <html>
     <head>
         <title>William Penn Bowling Team Roster</title>
@@ -13,7 +17,7 @@
             <h1>William Penn 2013-2014 Bowling Roster</h1>
         </div>
         
-        
+       
         <div id='rosterpage'>
         <center><div><img id="resize" src="images/team.jpg" alt="bowling team"/></div></center>
             <center><div id='header2'><h2>2013-2014 Men's Roster</h2></div></center>
@@ -21,7 +25,7 @@
 
 </div>
         <center><div class="floater">
-                <img src="images/markvanwyk.jpg" alt='Mark Van Wyk' title='Mark Van Wyk'/>
+                <img src="images/<?=$path['path']?>" alt='Mark Van Wyk' title='Mark Van Wyk'/>
                 <p><a href="markvanwyk.html">Mark Van Wyk</a></p>
                 <p> Head Coach </p>
                 </div>
